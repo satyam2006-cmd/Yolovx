@@ -47,8 +47,7 @@ The system processes video input to estimate congestion and queue length in real
 
 > Made with 🩵 By Satyam Bhagat
 
----
-
 ## ⭐ Support
-
 If you found this useful, consider giving it a ⭐ on GitHub!
+
+> This project is a part of the Yolovx Internship training course
