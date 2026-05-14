@@ -1,4 +1,4 @@
-# Vehicle Queue Detection System
+<h1 align="center">🚦 Vehicle Queue Detection System</h1>
 
 ## 📌 Overview
 This project focuses on detecting and analyzing **vehicle queues in traffic videos** using deep learning and computer vision.
