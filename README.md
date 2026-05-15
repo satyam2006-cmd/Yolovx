@@ -34,9 +34,7 @@ The system processes video input to estimate congestion and queue length in real
 * `best_queue.pt` → "Vehicle Queue detection model"
 * `veh.pt` → "Vehicle Detection Model"
 
-## Kaggle Notebook To the main project : 
-
-👉 https://www.kaggle.com/code/satyambhagat/vehicle-queue-detection-model/notebook
+> **[Kaggle Notebook To the main project](https://www.kaggle.com/code/satyambhagat/vehicle-queue-detection-model/notebook)**
 
 ## Future Improvements that can be done : 
 
