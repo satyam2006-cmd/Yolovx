@@ -48,6 +48,7 @@ The system processes video input to estimate congestion and queue length in real
 > Made with 🩵 By Satyam Bhagat
 
 ## ⭐ Support
-If you found this useful, consider giving it a ⭐ on GitHub!
 
-> This project is a part of the Yolovx Internship training course
+If you found this useful, consider giving it a ⭐ on GitHub!
+> Do check our community post at [Yolovx Forum](https://community.yolovx.com/t/vehicle-queue-detection-model/245?u=satyam_bhagat)
+🎓 This project is a part of the Yolovx Internship training course.
